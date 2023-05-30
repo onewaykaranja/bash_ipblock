@@ -1,7 +1,7 @@
 #!/bin/bash
 
-LOG_FILE="/Desktop/githubportfolio/bash/ipblock/blockips.log"
-BLOCKED_IPS_FILE="/etc/blocked_ips.txt"
+LOG_FILE="/home/karanja/Desktop/githubportfolio/bash/ipblock/blockips.log"
+BLOCKED_IPS_FILE="/home/karanja/Desktop/githubportfolio/bash/ipblock/blocked_ips.txt"
 MAX_FAILED_ATTEMPTS=3
 
 # Start an infinite loop for continuous monitoring
