@@ -7,7 +7,7 @@ LOG_FILE="/Desktop/githubportfolio/bash/ipblock/blockips.log"
 BLOCKED_IPS_FILE="/Desktop/githubportfolio/bash/ipblock/blocked_ips.txt"
 MAX_FAILED_ATTEMPTS=3
 
-# Start an infinite loop for continuous monitoring
+#An infinite loop for continuous monitoring
 while true
 do
 
